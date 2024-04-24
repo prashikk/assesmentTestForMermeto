@@ -13,4 +13,4 @@ This project is a boilerplate for a simple web application that displays product
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prashikk/assesmentTestForMermeto.git
