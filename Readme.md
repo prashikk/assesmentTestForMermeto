@@ -1,3 +1,5 @@
+HOSTED LINK - https://6628c18bdb395b96a61aaadb--majestic-torrone-40337d.netlify.app/
+
 # Coding Assessment Level 2
 
 This project is a boilerplate for a simple web application that displays product categories and allows users to view products within each category. The product data is fetched from an API and displayed dynamically on the webpage.
